@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672986742 source:c:\users\satish patil\downloads\minutesconversion\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673239933 source:c:\users\satish patil\downloads\dk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1673244532 source:c:\users\satish patil\downloads\guess the game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
